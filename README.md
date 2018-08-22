@@ -1,4 +1,8 @@
-# OpenCV
-Contains work on OpenCV's Deep Learning module and uses a pretrained GoogleNet.
+# Working with OpenCV's Deep Learning module and a pretrained GoogleNet.
 
-... I will add more info!
+Repo contains:
+* the Caffe .prototxt file
+* the bee.jpg file (from wikipedia)
+
+The bvlc_googlenet.caffemodel file can be found here:
+https://github.com/BVLC/caffe/tree/master/models/bvlc_googlenet
