@@ -1,2 +1,2 @@
 # OpenCV
-Contains work on OpenCV
+Contains work on OpenCV's Deep Learning module. 
